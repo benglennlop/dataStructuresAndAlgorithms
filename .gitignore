@@ -1,0 +1,9 @@
+# Compiled stuff
+/dist
+
+# Intellij files
+.idea
+
+# Other
+.DS_Store
+
